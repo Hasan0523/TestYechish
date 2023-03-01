@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MathTest">
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="MissingConstraints">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/_1_masala_4_23_10_9_hisoblang"
+                android:textColor="@color/black"
+                android:textSize="25sp"/>
+
+             <RadioButton
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:text="@string/a_10"
+                 android:textSize="25sp"
+                 android:textColor="#071591"
+                 android:tag="@string/button1"/>
+             <RadioButton
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:text="@string/b_48"
+                 android:textSize="25sp"
+                 android:textColor="#071591"
+                 android:tag="@string/button2"/>
+             <RadioButton
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:text="@string/c_32"
+                 android:textSize="25sp"
+                 android:textColor="#071591"
+                 android:tag="@string/button3"/>
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/d_56"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button4"/>
+            <RadioButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="E) TJY"
+               android:textSize="25sp"
+                android:textColor="#071591"
+               android:tag="@string/button5"/>
+
+        </RadioGroup>
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="MissingConstraints">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/_2_masala_7_nechaga_teng"
+                android:textColor="@color/black"
+                android:textSize="25sp" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/a_105"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button6"/>
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/b_5_040"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button7"/>
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/c_48"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button8"/>
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/d_bunday_misol_mavjud_emas"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button9"/>
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="E) TJY"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button10"/>
+        </RadioGroup>
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="MissingConstraints">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/_3_masala_qaysi_son_katta_7_yoki_3"
+                android:textSize="25sp"
+                android:textColor="@color/black"/>
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:tag="@string/button1"
+                android:text="@string/a_7"
+                android:textColor="#071591"
+                android:textSize="25sp" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/b_3"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button2"/>
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/c_ikkisi_teng"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button3"/>
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:tag="@string/button4"
+                android:text="@string/d_bilmayman"
+                android:textColor="#071591"
+                android:textSize="25sp" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="E) TJY"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button5"/>
+        </RadioGroup>
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="MissingConstraints">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/_4_masala_77_7_2_42_7"
+                android:textSize="25sp"
+                android:textColor="@color/black"/>
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/a_12"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button1"/>
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:tag="@string/button2"
+                android:text="@string/b_16"
+                android:textColor="#071591"
+                android:textSize="25sp" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/c_5"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button3"/>
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/d_13"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button4"/>
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:tag="@string/button5"
+                android:text="@string/e_tjy"
+                android:textColor="#071591"
+                android:textSize="25sp" />
+        </RadioGroup>
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="MissingConstraints">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/_5_masala_hisoblang_rim_raqamlari_l_x_xxi_ix_v"
+                android:textSize="25sp"
+                android:textColor="@color/black"/>
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:tag="@string/button1"
+                android:text="@string/a_lxv"
+                android:textColor="#071591"
+                android:textSize="25sp" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/b_xlv"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button2"/>
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/c_lxx"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button3"/>
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/d_xlx"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button5"/>
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="E) TJY"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button1"/>
+        </RadioGroup>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</ScrollView>
