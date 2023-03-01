@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="physics_test">Physics test</string>
+    <string name="Math_test">math test</string>
+</resources>
