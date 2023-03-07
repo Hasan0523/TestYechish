@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MathTest">
+    tools:context=".PhysicsTest">
     <androidx.appcompat.widget.LinearLayoutCompat
         android:orientation="vertical"
         android:layout_width="match_parent"
@@ -18,45 +18,45 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/_1_masala_4_23_10_9_hisoblang"
+                android:text="@string/_1_savol_erkin_tushish_tezlanishi_qanday_harf_bilan_belgilanadi"
                 android:textColor="@color/black"
                 android:textSize="25sp"/>
 
-             <RadioButton
-                 android:layout_width="match_parent"
-                 android:layout_height="wrap_content"
-                 android:text="@string/a_10"
-                 android:textSize="25sp"
-                 android:textColor="#071591"
-                 android:tag="@string/button1"/>
-             <RadioButton
-                 android:layout_width="match_parent"
-                 android:layout_height="wrap_content"
-                 android:text="@string/b_48"
-                 android:textSize="25sp"
-                 android:textColor="#071591"
-                 android:tag="@string/button2"/>
-             <RadioButton
-                 android:layout_width="match_parent"
-                 android:layout_height="wrap_content"
-                 android:text="@string/c_32"
-                 android:textSize="25sp"
-                 android:textColor="#071591"
-                 android:tag="@string/button3"/>
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/d_56"
+                android:text="A) g"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button1"/>
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/b_m"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button2"/>
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/c_a"
+                android:textSize="25sp"
+                android:textColor="#071591"
+                android:tag="@string/button3"/>
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/d_p"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button4"/>
             <RadioButton
-               android:layout_width="match_parent"
-               android:layout_height="wrap_content"
-               android:text="E) TJY"
-               android:textSize="25sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/e_k"
+                android:textSize="25sp"
                 android:textColor="#071591"
-               android:tag="@string/button5"/>
+                android:tag="@string/button5"/>
 
         </RadioGroup>
         <RadioGroup
@@ -67,7 +67,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/_2_masala_7_nechaga_teng"
+                android:text="@string/_2_savol_jismning_tik_yuqoriga_otgandagi_maksimal_ko_tarilish_fo_rmulasini_belgilang"
                 android:textColor="@color/black"
                 android:textSize="25sp" />
 
@@ -268,4 +268,5 @@
         </Button>
 
     </androidx.appcompat.widget.LinearLayoutCompat>
+
 </ScrollView>

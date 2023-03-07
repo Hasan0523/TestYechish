@@ -38,4 +38,11 @@
     <string name="b_48">B) 48</string>
     <string name="a_10">A) 10</string>
     <string name="_1_masala_4_23_10_9_hisoblang">1-Masala (4!-23)^10+9 hisoblang</string>
+    <string name="tugatish">Tugatish</string>
+    <string name="_1_savol_erkin_tushish_tezlanishi_qanday_harf_bilan_belgilanadi">1-Savol Erkin tushish tezlanishi qanday harf bilan belgilanadi ?</string>
+    <string name="b_m">B) m</string>
+    <string name="c_a">C) a</string>
+    <string name="d_p">D) P</string>
+    <string name="e_k">E) k</string>
+    <string name="_2_savol_jismning_tik_yuqoriga_otgandagi_maksimal_ko_tarilish_fo_rmulasini_belgilang">2-Savol Jismning tik yuqoriga otgandagi maksimal ko\'tarilish fo\'rmulasini belgilang</string>
 </resources>
