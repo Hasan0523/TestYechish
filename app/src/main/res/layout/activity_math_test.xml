@@ -11,6 +11,7 @@
         android:layout_height="wrap_content">
 
         <RadioGroup
+            android:id="@+id/test1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:ignore="MissingConstraints">
@@ -23,6 +24,7 @@
                 android:textSize="25sp"/>
 
              <RadioButton
+                 android:id="@+id/savol1"
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
                  android:text="@string/a_10"
@@ -30,6 +32,7 @@
                  android:textColor="#071591"
                  android:tag="@string/button1"/>
              <RadioButton
+                 android:id="@+id/savol2"
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
                  android:text="@string/b_48"
@@ -37,6 +40,7 @@
                  android:textColor="#071591"
                  android:tag="@string/button2"/>
              <RadioButton
+                 android:id="@+id/savol3"
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
                  android:text="@string/c_32"
@@ -44,6 +48,7 @@
                  android:textColor="#071591"
                  android:tag="@string/button3"/>
             <RadioButton
+                android:id="@+id/savol4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/d_56"
@@ -51,6 +56,7 @@
                 android:textColor="#071591"
                 android:tag="@string/button4"/>
             <RadioButton
+                android:id="@+id/savol5"
                android:layout_width="match_parent"
                android:layout_height="wrap_content"
                android:text="E) TJY"
@@ -60,6 +66,7 @@
 
         </RadioGroup>
         <RadioGroup
+            android:id="@+id/test2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:ignore="MissingConstraints">
@@ -72,6 +79,7 @@
                 android:textSize="25sp" />
 
             <RadioButton
+                android:id="@+id/savol6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/a_105"
@@ -79,6 +87,7 @@
                 android:textColor="#071591"
                 android:tag="@string/button6"/>
             <RadioButton
+                android:id="@+id/savol7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/b_5_040"
@@ -86,6 +95,7 @@
                 android:textColor="#071591"
                 android:tag="@string/button7"/>
             <RadioButton
+                android:id="@+id/savol8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/c_48"
@@ -93,6 +103,7 @@
                 android:textColor="#071591"
                 android:tag="@string/button8"/>
             <RadioButton
+                android:id="@+id/savol9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/d_bunday_misol_mavjud_emas"
@@ -100,6 +111,7 @@
                 android:textColor="#071591"
                 android:tag="@string/button9"/>
             <RadioButton
+                android:id="@+id/savol10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="E) TJY"
@@ -108,6 +120,7 @@
                 android:tag="@string/button10"/>
         </RadioGroup>
         <RadioGroup
+            android:id="@+id/test3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:ignore="MissingConstraints">
@@ -120,6 +133,7 @@
                 android:textColor="@color/black"/>
 
             <RadioButton
+                android:id="@+id/savol11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:tag="@string/button1"
@@ -128,6 +142,7 @@
                 android:textSize="25sp" />
 
             <RadioButton
+                android:id="@+id/savol12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/b_3"
@@ -135,6 +150,7 @@
                 android:textColor="#071591"
                 android:tag="@string/button2"/>
             <RadioButton
+                android:id="@+id/savol13"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/c_ikkisi_teng"
@@ -143,6 +159,7 @@
                 android:tag="@string/button3"/>
 
             <RadioButton
+                android:id="@+id/savol14"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:tag="@string/button4"
@@ -151,6 +168,7 @@
                 android:textSize="25sp" />
 
             <RadioButton
+                android:id="@+id/savol15"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="E) TJY"
@@ -159,6 +177,7 @@
                 android:tag="@string/button5"/>
         </RadioGroup>
         <RadioGroup
+            android:id="@+id/test4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:ignore="MissingConstraints">
@@ -171,6 +190,7 @@
                 android:textColor="@color/black"/>
 
             <RadioButton
+                android:id="@+id/savol16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/a_12"
@@ -179,6 +199,7 @@
                 android:tag="@string/button1"/>
 
             <RadioButton
+                android:id="@+id/savol17"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:tag="@string/button2"
@@ -187,6 +208,7 @@
                 android:textSize="25sp" />
 
             <RadioButton
+                android:id="@+id/savol18"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/c_5"
@@ -194,6 +216,7 @@
                 android:textColor="#071591"
                 android:tag="@string/button3"/>
             <RadioButton
+                android:id="@+id/savol19"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/d_13"
@@ -202,6 +225,7 @@
                 android:tag="@string/button4"/>
 
             <RadioButton
+                android:id="@+id/savol20"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:tag="@string/button5"
@@ -210,6 +234,7 @@
                 android:textSize="25sp" />
         </RadioGroup>
         <RadioGroup
+            android:id="@+id/test5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:ignore="MissingConstraints">
@@ -222,6 +247,7 @@
                 android:textColor="@color/black"/>
 
             <RadioButton
+                android:id="@+id/savol21"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:tag="@string/button1"
@@ -230,6 +256,7 @@
                 android:textSize="25sp" />
 
             <RadioButton
+                android:id="@+id/savol22"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/b_xlv"
@@ -237,6 +264,7 @@
                 android:textColor="#071591"
                 android:tag="@string/button2"/>
             <RadioButton
+                android:id="@+id/savol23"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/c_lxx"
@@ -245,6 +273,7 @@
                 android:tag="@string/button3"/>
 
             <RadioButton
+                android:id="@+id/savol24"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/d_xlx"
@@ -252,6 +281,7 @@
                 android:textColor="#071591"
                 android:tag="@string/button5"/>
             <RadioButton
+                android:id="@+id/savol25"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="E) TJY"
@@ -260,6 +290,7 @@
                 android:tag="@string/button1"/>
         </RadioGroup>
         <Button
+            android:id="@+id/tugat"
             android:layout_gravity="center_horizontal"
             android:layout_width="180sp"
             android:layout_height="70sp"
