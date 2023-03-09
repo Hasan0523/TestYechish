@@ -45,4 +45,24 @@
     <string name="d_p">D) P</string>
     <string name="e_k">E) k</string>
     <string name="_2_savol_jismning_tik_yuqoriga_otgandagi_maksimal_ko_tarilish_fo_rmulasini_belgilang">2-Savol Jismning tik yuqoriga otgandagi maksimal ko\'tarilish fo\'rmulasini belgilang</string>
+    <string name="e_h_at_2_2">E) h=at^2 / 2</string>
+    <string name="d_v_2_2g">D) v^2/2g</string>
+    <string name="c_mg">C) mg</string>
+    <string name="e_h_mt_2_2">E) h= mt^2 / 2</string>
+    <string name="ft">Ft</string>
+    <string name="a_ft">A) Ft</string>
+    <string name="b_mg">B) mg</string>
+    <string name="e_ma">E) ma</string>
+    <string name="c_mv">C) mv</string>
+    <string name="_3_savol_kuch_impulsi_formulasini_belgilang">3-Savol Kuch impulsi formulasini belgilang</string>
+    <string name="a_2at_2">A) 2at^2</string>
+    <string name="b_mv">B) mv</string>
+    <string name="a_g">A) g</string>
+    <string name="_4_savol_jism_impulsi_formulasini_belgilang">4-Savol Jism impulsi formulasini belgilang</string>
+    <string name="_5_savol_jism_impulsining_o_zgarishi_nimaga_teng">5-Savol Jism impulsining o\'zgarishi nimaga teng ?</string>
+    <string name="a_kuch_impulsiga">A) Kuch impulsiga</string>
+    <string name="c_harakat_vaqtiga">C) harakat vaqtiga</string>
+    <string name="b_jism_impulsiga">B) Jism impulsiga</string>
+    <string name="d_tasir_kuchiga">D) tasir kuchiga</string>
+    <string name="e_tezlanishga">E) tezlanishga</string>
 </resources>

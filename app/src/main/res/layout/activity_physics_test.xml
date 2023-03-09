@@ -25,7 +25,7 @@
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="A) g"
+                android:text="@string/a_g"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button1"/>
@@ -74,35 +74,35 @@
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/a_105"
+                android:text="@string/a_2at_2"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button6"/>
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/b_5_040"
+                android:text="@string/b_mv"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button7"/>
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/c_48"
+                android:text="@string/c_mg"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button8"/>
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/d_bunday_misol_mavjud_emas"
+                android:text="@string/d_v_2_2g"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button9"/>
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="E) TJY"
+                android:text="@string/e_h_mt_2_2"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button10"/>
@@ -115,7 +115,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/_3_masala_qaysi_son_katta_7_yoki_3"
+                android:text="@string/_3_savol_kuch_impulsi_formulasini_belgilang"
                 android:textSize="25sp"
                 android:textColor="@color/black"/>
 
@@ -123,21 +123,21 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:tag="@string/button1"
-                android:text="@string/a_7"
+                android:text="@string/a_ft"
                 android:textColor="#071591"
                 android:textSize="25sp" />
 
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/b_3"
+                android:text="@string/b_mg"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button2"/>
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/c_ikkisi_teng"
+                android:text="@string/c_mv"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button3"/>
@@ -153,7 +153,7 @@
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="E) TJY"
+                android:text="@string/e_ma"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button5"/>
@@ -166,14 +166,14 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/_4_masala_77_7_2_42_7"
+                android:text="@string/_4_savol_jism_impulsi_formulasini_belgilang"
                 android:textSize="25sp"
                 android:textColor="@color/black"/>
 
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/a_12"
+                android:text="@string/a_ft"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button1"/>
@@ -182,21 +182,21 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:tag="@string/button2"
-                android:text="@string/b_16"
+                android:text="@string/b_mg"
                 android:textColor="#071591"
                 android:textSize="25sp" />
 
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/c_5"
+                android:text="@string/c_mv"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button3"/>
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/d_13"
+                android:text="@string/d_bilmayman"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button4"/>
@@ -217,7 +217,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/_5_masala_hisoblang_rim_raqamlari_l_x_xxi_ix_v"
+                android:text="@string/_5_savol_jism_impulsining_o_zgarishi_nimaga_teng"
                 android:textSize="25sp"
                 android:textColor="@color/black"/>
 
@@ -225,21 +225,21 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:tag="@string/button1"
-                android:text="@string/a_lxv"
+                android:text="@string/a_kuch_impulsiga"
                 android:textColor="#071591"
                 android:textSize="25sp" />
 
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/b_xlv"
+                android:text="@string/b_jism_impulsiga"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button2"/>
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/c_lxx"
+                android:text="@string/c_harakat_vaqtiga"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button3"/>
@@ -247,14 +247,14 @@
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/d_xlx"
+                android:text="@string/d_tasir_kuchiga"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button5"/>
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="E) TJY"
+                android:text="@string/e_tezlanishga"
                 android:textSize="25sp"
                 android:textColor="#071591"
                 android:tag="@string/button1"/>
